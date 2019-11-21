@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-  scale = 2
+  scale[i](2)
 end
 
 def find_max_value(array)
